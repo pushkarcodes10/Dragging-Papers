@@ -19,6 +19,6 @@ A simple drag-and-drop web application where users can place, move, and arrange 
 
 ## 📸 Preview
 
-<img width="1366" height="768" alt="Screenshot 2026-04-20 134915" src="https://github.com/user-attachments/assets/647722ba-4e31-4f16-b42a-2574c9f6ad78" />
+<img width="1366" height="768" alt="Screenshot 2026-04-20 134915" src="https://github.com/user-attachments/assets/7ae7ed18-c7ee-4597-bb24-73000ac96286" />
 
 ---
